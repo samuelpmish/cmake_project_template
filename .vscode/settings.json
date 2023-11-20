@@ -1,0 +1,6 @@
+{
+    "cmake.configureArgs": [
+        "--profiling-format=google-trace",                                       
+        "--profiling-output=cmake-configuration-stage-profiling-data.json"
+    ]
+}
